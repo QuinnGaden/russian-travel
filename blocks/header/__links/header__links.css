@@ -1,0 +1,5 @@
+.header__links {
+  padding-bottom: 8px;
+  display: flex;
+  align-items: flex-end;
+}

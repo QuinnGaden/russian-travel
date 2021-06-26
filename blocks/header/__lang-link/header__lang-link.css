@@ -4,6 +4,12 @@
   line-height: 28px;
   font-weight: normal;
   color: #fff;
+  padding-right: 18px;
+}
+
+.header__lang-link:last-child {
+  text-decoration: none;
+  padding-right: 0;
 }
 
 
