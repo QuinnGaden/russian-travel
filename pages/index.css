@@ -3,6 +3,7 @@
 @import url(../vendor/fonts/fonts.css);
 /*page*/
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__align/page__align.css);
 @import url(../blocks/page/__section/page__section.css);
 @import url(../blocks/page/__section/_lead/page__section_lead.css);
 /*header*/
@@ -32,3 +33,9 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
+/*cover*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+/*photo-grid*/
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
