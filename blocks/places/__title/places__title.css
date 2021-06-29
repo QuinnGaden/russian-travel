@@ -1,0 +1,9 @@
+.places__title {
+  grid-area: title;
+  color: #fff;
+  font-size: 72px;
+  line-height: 106%;
+  font-weight: 900;
+  font-style: normal;
+  margin: 0;
+}
