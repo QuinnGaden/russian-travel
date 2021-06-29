@@ -1,9 +1,4 @@
 .places__place {
-  display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(460px, 1fr)); 
   
-  grid-template-areas: 
-  "title website"
-  "image paragraph"
-  ; 
+ 
 }
