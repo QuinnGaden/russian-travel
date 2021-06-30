@@ -1,4 +1,8 @@
 .places__place {
-  
- 
+  display: grid;
+  grid-template-columns: repeat(1, 460px) 1fr;
+  grid-gap: 48px 40px;
+  grid-template-areas:
+  "title website"
+  "img paragraph";
 }

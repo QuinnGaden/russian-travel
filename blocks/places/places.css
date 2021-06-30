@@ -1,4 +1,6 @@
 .places {
+  display: grid;
   padding-top: 92px;
+  grid-gap: 80px;
   /*border: 1px solid white;*/
 }

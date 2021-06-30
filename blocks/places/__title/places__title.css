@@ -1,5 +1,6 @@
 .places__title {
-  padding-right: 40px;
+ /* grid-area: title;*/
+  
   max-width: 45%;
   color: #fff;
   font-size: 72px;

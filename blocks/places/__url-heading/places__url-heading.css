@@ -1,4 +1,6 @@
 .places__url-heading {
+  grid-area: website;
+  padding-bottom: 12px;
   color:#aaa;
   font-size: 12px;
   line-height: 100%;
@@ -6,4 +8,5 @@
   font-weight: normal;
   font-style: normal;
   margin: 0;
+  
 }

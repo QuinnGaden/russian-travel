@@ -1,0 +1,6 @@
+.places__paragraphs {
+  grid-area: paragraph;
+  display: grid;
+  grid-gap: 26px;
+  grid-template-rows: min-content;
+}
