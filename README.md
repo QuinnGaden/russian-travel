@@ -10,4 +10,4 @@
 HTML, CSS.
 
 #Ссылка на Hithub проекта
-https://github.com/QuinnGaden/russian-travel
+https://quinngaden.github.io/
