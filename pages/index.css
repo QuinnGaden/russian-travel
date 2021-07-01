@@ -6,6 +6,8 @@
 @import url(../blocks/page/__align/page__align.css);
 @import url(../blocks/page/__section/page__section.css);
 @import url(../blocks/page/__section/_lead/page__section_lead.css);
+@import url(../blocks/page/__section/_places/page__section_places.css);
+@import url(../blocks/page/__section/_cover/page__section_cover.css);
 /*header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);

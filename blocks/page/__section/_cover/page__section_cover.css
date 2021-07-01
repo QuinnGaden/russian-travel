@@ -1,0 +1,10 @@
+.page__section_cover {
+  
+}
+
+@media (max-width: 1279px) {
+  .page__section_cover {
+    max-width: 100%;
+    padding: 0;
+  }
+}

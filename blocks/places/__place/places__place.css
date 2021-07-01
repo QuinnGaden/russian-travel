@@ -6,3 +6,29 @@
   "title website"
   "img paragraph";
 }
+
+@media (max-width: 1279px) {
+  .places__place {
+    grid-template-columns: repeat(1, 440px) 1fr;
+    grid-gap: 48px 32px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .places__place {
+    grid-template-columns: repeat(1, 340px) 1fr;
+    grid-gap: 48px 28px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places__place {
+    grid-template-columns: repeat(1, 320px);
+    grid-gap: 32px;
+    grid-template-areas:
+    "title"
+    "website"
+    "img"
+    "paragraph";
+  }
+}

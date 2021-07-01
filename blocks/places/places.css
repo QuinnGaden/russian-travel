@@ -4,3 +4,17 @@
   grid-gap: 80px;
   /*border: 1px solid white;*/
 }
+
+@media (max-width: 1023px) {
+  .places {
+    padding-top: 88px;
+    grid-gap: 73px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    padding-top: 64px;
+    grid-gap: 50px;
+  }
+}

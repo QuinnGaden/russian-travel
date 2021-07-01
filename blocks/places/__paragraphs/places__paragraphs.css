@@ -4,3 +4,15 @@
   grid-gap: 26px;
   grid-template-rows: min-content;
 }
+
+@media (max-width: 1279px) {
+  .places__paragraphs {
+    grid-gap: 27px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .places__paragraphs {
+    grid-gap: 25px;
+  }
+}
