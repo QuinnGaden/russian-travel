@@ -18,12 +18,12 @@
   right: 0; 
   bottom: 0;
   content: "";
-  background: rgba(0, 0, 0, .5);
+  background-color: #2A2C2F;
   opacity: 0.3;
 }
 
 .cover__link:hover::after {
-  background: rgba(0, 0, 0, .5);
+  background-color: #2A2C2F;
   opacity: 0.8;
   
 }

@@ -1,0 +1,10 @@
+.page__section_place_places {
+  max-width: 1080px;
+}
+
+@media (max-width: 767px) {
+  .page__section_place_places {
+    padding: 64px 0 0;
+    
+  }
+}

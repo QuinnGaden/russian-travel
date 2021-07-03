@@ -1,0 +1,24 @@
+.page__section_type_narrow {
+
+}
+
+@media (max-width: 1279px) {
+  .page__section_type_narrow {
+    max-width: 1024px;
+  
+  }
+}
+
+@media (max-width: 1023px) {
+  .page__section_type_narrow {
+    max-width: 768px;
+    padding: 0 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .page__section_type_narrow {
+    max-width: 320px;
+    padding: 0 16px;
+  }
+}
